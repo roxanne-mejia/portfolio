@@ -152,7 +152,10 @@ img {
 .nav-list a:hover {
   background: var(--main-pink);
 }
-
+/* End Nav section */
+.container-fluid {
+  background-color: main--orchid;
+}
 
 /* Welcome section */
 
